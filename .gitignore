@@ -1,0 +1,19 @@
+# virtual envs
+.venv/
+venv/
+env/
+
+# python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# notebooks checkpoints (if you add any later)
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
