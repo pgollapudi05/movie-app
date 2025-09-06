@@ -1,7 +1,7 @@
 # Movie Ratings Explorer & Recommender
 
 A Streamlit web app that explores the MovieLens *latest-small* dataset (~100k ratings) and recommends movies using *item–item cosine similarity*.
-
+[View Live](https://movie-app-recommender.streamlit.app)
 ## Features
 - 📊 Ratings distribution, most-rated and top-rated movies
 - ⁠⁠🔍 “Similar to this title” using cosine similarity
